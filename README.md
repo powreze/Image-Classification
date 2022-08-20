@@ -3,7 +3,7 @@
 
 Image classification with Model Sequential using Tensorflow and Keras Library in Google Colabs. This task aims to classify the image based on the format (rock / paper / scissors).
 
-- Dataset
+- Dataset <a href= "https://drive.google.com/file/d/1rvQWsDDYlWHj2vdCrqJMwFGk2YxY5Ov_/view?usp=sharing">rockpaperscissors</a>
 - The dataset included 2.188 images (rock-paper-scissors), within 726 rock images, 712 paper images, and 750 scissors images
 - Separate the dataset into 2 parts
 	1. train data 80%
